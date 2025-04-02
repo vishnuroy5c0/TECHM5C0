@@ -1,0 +1,10 @@
+2025-03-23 10:00:01 - User1: Hello!
+2025-03-23 10:00:05 - User2: Hi there!
+2025-03-23 10:00:10 - User1: How are you?
+2025-03-23 10:00:15 - User2: I’m good, thanks! How about you?
+2025-03-23 10:00:20 - User1: Doing great! Just working on some code.
+2025-03-23 10:00:30 - User2: Nice! What are you building?
+2025-03-23 10:00:40 - User1: A chat logger with file rotation.
+2025-03-23 10:00:50 - User2: That sounds useful!
+2025-03-23 10:01:00 - User1: Yeah, helps keep logs organized.
+2025-03-23 10:01:10 - User2: Cool! Let me know if you need testers.

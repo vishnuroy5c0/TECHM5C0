@@ -1,0 +1,10 @@
+Hello, this is line 1.
+Welcome to the multi-threaded file processor.
+Java is great for handling large files.
+Multi-threading improves performance.
+BufferedReader helps in efficient file reading.
+This is a sample line for testing.
+Large files require optimized processing.
+Writing to files should be thread-safe.
+Error handling is crucial in large applications.
+This is the last sample line.
